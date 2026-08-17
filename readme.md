@@ -25,7 +25,7 @@ If you were to use either code for both RTC modules, there could be issues.</h4>
 <img src="https://i.postimg.cc/W35YpKqB/Board-and-Com-port.jpg" alt="Select Board and Com Ports" style="max-width: 100%; height: auto;"><br>
 <h2></h2>
 <br>
-<h2>About me:</h2> <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dubai&size=22&pause=1000&color=00F7D3&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Shahil+Shajahan" alt="Typing SVG" /></a></a></h1>
+<h2>About me:</h2> <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dubai&size=22&pause=1000&color=00F7D3&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Shahil+Shajahan" alt="Typing SVG" /></a></h1>
 
  <h3 align="center">🚀 Open-Source & Freelance Developer | Turning Ideas into Tools</h3>
 
@@ -45,7 +45,11 @@ If you were to use either code for both RTC modules, there could be issues.</h4>
 
 <h2 align="center">#TechEnthusiast</h2>
 
-<img align="right" alt="Coding" width="300" src="https://i.postimg.cc/CL981DpX/DEVELOPER.gif">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahilshajahan&color=brightgreen" alt="Profile Views" width="160">
+</p>
+
+<img align="right" alt="Coding" width="300" src="https://i.postimg.cc/76Qy1pmX/PHONEPEUPI.png">
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -94,16 +98,6 @@ If you find my projects useful, you can support future development here:
 - 💙 PayPal → https://paypal.me/MohamedShahil
 
 Your support helps me dedicate more time to developing and maintaining open-source projects. Thank you! ❤️
-
-<div align="left" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://buymeacoffee.com/shahils">
-    <img src="https://i.postimg.cc/SQdPYtnh/UPI.png" height=auto width="270" alt="shahils" />
-  </a>
- <br>
-  <a>
-    <img src="https://i.postimg.cc/wMrCJkh5/phonepe.png" height="290" width=auto />
-  </a>
-</div>
 
 <p>
 </p>
